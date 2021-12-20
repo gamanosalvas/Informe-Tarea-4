@@ -40,7 +40,12 @@ Especificos
 
 Capitulo 7
 
+![image](https://user-images.githubusercontent.com/94025287/146811574-e44cee4a-de1a-4872-aa2e-26c083fa674b.png)
+
+
 Capitulo 8
+
+
 
 3. Explicación y Resolución de ejercicios o problemas:
 
