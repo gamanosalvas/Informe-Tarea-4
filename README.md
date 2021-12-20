@@ -69,6 +69,20 @@ Ejercicios Capitulo 7
 
 Ejercicios Capitulo 8
 
+![image](https://user-images.githubusercontent.com/94025287/146816808-3e9a2efd-c5d8-451d-b85c-d2321ee39117.png)
+![image](https://user-images.githubusercontent.com/94025287/146816821-1c451e30-14d1-4126-93ba-e1445d3822e8.png)
+![image](https://user-images.githubusercontent.com/94025287/146816843-e2ae9b97-c89a-4fad-9975-dd61a5960f10.png)
+![image](https://user-images.githubusercontent.com/94025287/146816859-f19da2b9-015d-4347-8da6-9f0e6ec25309.png)
+![image](https://user-images.githubusercontent.com/94025287/146816890-5a701470-b5a2-4976-93d8-d047001aee78.png)
+![image](https://user-images.githubusercontent.com/94025287/146816898-fb632eea-9982-4fac-9141-14048df0ad0f.png)
+![image](https://user-images.githubusercontent.com/94025287/146816915-f31d66fe-ee2e-4b01-b17c-2cc2daa07afa.png)
+![image](https://user-images.githubusercontent.com/94025287/146816926-d7d3e5d1-baee-4690-8655-c3bdff6ff1e6.png)
+
+
+
+
+
+
 4. Video:
 
 5. Conclusiones:
