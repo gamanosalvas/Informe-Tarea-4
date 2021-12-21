@@ -53,6 +53,7 @@ Capitulo 8
 3. Explicación y Resolución de ejercicios o problemas:
 
 Ejercicios Capitulo 7
+
 ![image](https://user-images.githubusercontent.com/94025287/146946182-314f71ec-0a5a-40b6-87cb-0bd758277942.png)
 ![image](https://user-images.githubusercontent.com/94025287/146946218-7083a5a1-0e51-413c-b667-7203b1369bcf.png)
 ![image](https://user-images.githubusercontent.com/94025287/146946235-6f3629b3-ac7a-442c-8f9d-a785352b57bf.png)
@@ -92,6 +93,14 @@ Ejercicios Capitulo 7
 
 
 Ejercicios Capitulo 8
+
+![image](https://user-images.githubusercontent.com/94025287/146948128-64291b16-f141-4a74-8464-2ba4a7c26207.png)
+![image](https://user-images.githubusercontent.com/94025287/146948145-37fbfd3b-e632-4076-822c-a7892ce0e4e8.png)
+![image](https://user-images.githubusercontent.com/94025287/146948193-c6900442-7e1c-4b79-b4af-d539f6c43479.png)
+![image](https://user-images.githubusercontent.com/94025287/146948213-45609f2c-ad63-4621-b663-e538a3fd7918.png)
+![image](https://user-images.githubusercontent.com/94025287/146948312-df898db2-1f18-498a-a331-82ac42ee91fa.png)
+![image](https://user-images.githubusercontent.com/94025287/146948344-fcad9414-1a4b-48a1-adf1-d2e3e7558ca7.png)
+
 
 ![image](https://user-images.githubusercontent.com/94025287/146816808-3e9a2efd-c5d8-451d-b85c-d2321ee39117.png)
 ![image](https://user-images.githubusercontent.com/94025287/146816821-1c451e30-14d1-4126-93ba-e1445d3822e8.png)
