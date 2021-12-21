@@ -107,6 +107,7 @@ Ejercicios Capitulo 8
 ![image](https://user-images.githubusercontent.com/94025287/146816843-e2ae9b97-c89a-4fad-9975-dd61a5960f10.png)
 ![image](https://user-images.githubusercontent.com/94025287/146816859-f19da2b9-015d-4347-8da6-9f0e6ec25309.png)
 ![image](https://user-images.githubusercontent.com/94025287/146816890-5a701470-b5a2-4976-93d8-d047001aee78.png)
+
 13.  Determine el voltaje del punto A al punto B en la figura 8-73.
 
 ![image](https://user-images.githubusercontent.com/93210648/146943419-1703cc40-1205-43a2-85ec-d532df5e0997.png)
