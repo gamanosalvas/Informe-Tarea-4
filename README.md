@@ -1,5 +1,7 @@
 Universidad de las Fuerzas Armadas "ESPE"
+
 Fundamentos de Cicuitos Electricos
+
 Informe Tarea Nº4
 
 Integrantes: Allauca Steven, Lucero Danilo, Manosalvas Gabriel
