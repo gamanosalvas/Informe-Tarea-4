@@ -171,6 +171,8 @@ SECCIÓN 8–6 Teorema de Norton
 
 4. Video:
 
+https://youtu.be/gpHAPatRe98
+
 5. Conclusiones:
 • Aprendimos a calcular la resistencia total de un circuito en un circuito serie-paralelo mediante el anasis de estos.
 
